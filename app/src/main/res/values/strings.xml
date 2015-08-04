@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lifary</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up">Lifary Sign Up</string>
+    <string name="signUp">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="title_activity_login">Lifary Log In</string>
+    <string name="title_activity_edit_diary">Lifary Diary Edit</string>
+    <string name="privately">privately</string>
+    <string name="publicly">publicly</string>
+    <string name="submit">Submit</string>
+    <string name="location">location</string>
+    <string name="title_activity_user_profile">User Profile</string>
+    <string name="title_activity_diary_view">DiaryView</string>
+</resources>
